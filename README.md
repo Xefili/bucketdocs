@@ -2,4 +2,4 @@
 
 ### Bucket Helper Documentation
 Created with astro!
-View on ![Xefili.dev](https://documentation.xefili.dev)
+View on [Xefili.dev](https://documentation.xefili.dev)
